@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=MatheeshaKoralegedara&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">🚀 Computer Science Undergraduate | Full-Stack Developer | Creative Designer</h3>
+<h3 align="center">🚀 Computer Science Undergraduate | Trainee Software Engineer | Creative Designer</h3>
 
 <p align="center">
 💡 Turning ideas into real-world digital solutions
